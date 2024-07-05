@@ -1,1 +1,18 @@
-
+[
+	{
+		"name": "Gedriht",
+		"unitType": "Sword",
+		"uniqueTo": "Northumbria",
+		"replaces": "Swordsman",
+		"movement": 2,
+		"strength": 16,
+		"cost": 75,
+		"requiredTech": "Iron Working",
+		"upgradesTo": "Longswordsman",
+		"obsoleteTech": "Gunpowder",
+		"requiredResource": "Iron",
+		"uniques": ["Earn [25]% of killed [Land] unit's [Cost] as [Faith]"],
+		"hurryCostModifier": 20,
+		"attackSound": "metalhit"
+	}
+]
