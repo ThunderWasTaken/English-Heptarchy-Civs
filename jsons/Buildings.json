@@ -1,14 +1,14 @@
 [
     {
         "name": "Burh",
-		"replaces": "Walls",
-		"uniqueTo": "Northumbria",
-		"cityStrength": 5,
-		"cityHealth": 50,
-		"hurryCostModifier": 25,
+	"replaces": "Walls",
+	"uniqueTo": "Northumbria",
+	"cityStrength": 5,
+	"cityHealth": 50,
+	"hurryCostModifier": 25,
         "culture": 1,
         "gold": 2,
-		"requiredTech": "Masonry",
-		"uniques": ["Destroyed when the city is captured0", "Free [Gedriht] appears"]
+	"requiredTech": "Masonry",
+	"uniques": ["Destroyed when the city is captured0", "Free [Gedriht] appears"]
     }
 ]
