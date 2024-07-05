@@ -9,6 +9,6 @@
         "culture": 1,
         "gold": 2,
 	"requiredTech": "Masonry",
-	"uniques": ["Destroyed when the city is captured0", "Free [Gedriht] appears"]
+	"uniques": ["Destroyed when the city is captured", "Free [Gedriht] appears"]
     }
 ]
