@@ -10,5 +10,17 @@
         "gold": 2,
 	"requiredTech": "Masonry",
 	"uniques": ["Destroyed when the city is captured", "Free [Gedriht] appears"]
+},
+{
+	"name": "Moot Hall",
+	"replaces": "Courthouse",
+	"uniqueTo": "Mercia",
+	"maintenance": 2,
+	"hurryCostModifier": 50,
+	"culture": 2,
+	"happiness": 1,
+	"uniques": ["Remove extra unhappiness from annexed cities",
+			"Can only be built <in [Annexed] cities>"],
+	"requiredTech": "Mathematics"
     }
 ]
