@@ -14,5 +14,20 @@
 		"uniques": ["Earn [25]% of killed [Land] unit's [Cost] as [Faith]"],
 		"hurryCostModifier": 20,
 		"attackSound": "metalhit"
+	},
+	{
+		"name": "Huscarl",
+		"unitType": "Sword",
+		"replaces": "Longswordsman",
+		"uniqueTo": "Mercia",
+		"movement": 2,
+		"strength": 23,
+		"cost": 120,
+		"requiredTech": "Steel",
+		"upgradesTo": "Musketman",
+		"obsoleteTech": "Gunpowder",
+		"requiredResource": "Iron",
+		"uniques": ["[+15]% Strength <when defending>"],
+		"attackSound": "metalhit"
 	}
 ]
