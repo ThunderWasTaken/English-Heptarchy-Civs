@@ -29,4 +29,34 @@
                         "Gainford","Greatham","Wearmouth","Monkwearmouth","Warkworth","Wark","Ancroft","Norham","Lindisfarne Castle",
                         "Dunstanburgh","Crayke","Filey","Helmsley","Rievaulx","Masham","Byland","Lastingham","Pickering","Kirkleatham"]
 	},
+	{
+		"name": "Mercia",
+		"leaderName": "Offa",
+		"adjective": ["Mercian"],
+		"startBias": ["Plains"],
+		"preferredVictoryType": "Diplomatic",
+
+		"startIntroPart1": "King Offa of Mercia. You consolidated your control of Midland peoples. Taking advantage of instability in the kingdom of Kent to establish yourself as overlord. In the 780s you extended Mercian Supremacy over most of southern England and regained complete control of the southeast. Oh, King Offa, can you once again unite the divided nations of the world? Can you expand your nation's domination once more? Can you build a civilization that will stand the test of time?",
+
+		"declaringWar": "Our nation will remain supreme!",
+		"attacked": "You dare attack us?!",
+		"defeated": "M-Mercy... For Mercia!",
+		"introduction": "I am King of the Mercians, and you are?",
+
+		"neutralHello": "Hi!",
+		"hateHello": "Fool!",
+
+		"tradeRequest": "If you do not wish to be vanquished, I suggest you accept this trade.",
+
+		"outerColor": [102, 1, 1],
+		"innerColor": [255, 189, 0],
+		"favoredReligion": "Christianity",
+		"uniqueName": "Offa's Law",
+		"uniques":["[+1 Gold, +1 Culture] from each Trade Route", "[+1 Production] from [Farm] tiles [in all cities] <starting from the [Medieval era]>"]
+		"cities":["Tamworth","Lichfield","Repton","Hereford","Worcester","Gloucester","Leicester","Derby","Northampton","Coventry",
+			"Shrewsbury","Stafford","Warwick","Nottingham","Chester","Stamford","Wroxeter","Birmingham","Tewkesbury","Evesham",
+			"Kidderminster","Stratford","Rugby","Lutterworth","Atherstone","Runcorn","Buxton","Burton","Newark","Grantham",
+			"Banbury","Kettering","Corby","Melton","Market Harborough","Oakham","Daventry","Sutton Coldfield","Tamworth","Lichfield",
+			"Nuneaton","Redditch","Hinckley","Stourbridge","Wellingborough","Alcester","Kenilworth","Market Bosworth","Leek"]
+	},
 ]
