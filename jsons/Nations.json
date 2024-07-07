@@ -59,4 +59,34 @@
 			"Banbury","Kettering","Corby","Melton","Market Harborough","Oakham","Daventry","Sutton Coldfield","Tamworth","Lichfield",
 			"Nuneaton","Redditch","Hinckley","Stourbridge","Wellingborough","Alcester","Kenilworth","Market Bosworth","Leek"]
 	},
+	{
+		"name": "Wessex",
+		"leaderName": "Alfred the Great",
+		"adjective": ["Wessexian"],
+		"startBias": ["Grassland"],
+		"preferredVictoryType": "Cultural",
+
+		"startIntroPart1": "King Alfred of Wessex. You spent several years fighting Viking invasions, winning a decisive victory in the Battle of Edington and made an agreement with the Vikings, dividing England between Anglo-Saxon territory and the Viking-ruled Danelaw. You defended his kingdom against the Viking attempt at conquest, becoming the dominant ruler in England. Oh, Alfred, can you once again defend against foreign invaders? Can you once again become the dominant force? Can you build a civilization that will stand the test of time?",
+
+		"declaringWar": "For Wessex!",
+		"attacked": "Who do you think you are?!",
+		"defeated": "I lost?! No! Impossible!",
+		"introduction": "I am Alfred the Great, the king of Wessex.",
+
+		"neutralHello": "Hello there.",
+		"hateHello": "Out of my sight!",
+
+		"tradeRequest": "We offer you this kind trade.",
+
+		"outerColor": [1, 100, 1],
+		"innerColor": [174, 255, 251],
+		"favoredReligion": "Christianity",
+		"uniqueName": "Western Saxons",
+		"uniques":["[+1 Culture] from all [All] buildings", "[+25]% Strength <vs [Barbarian] units>"]
+		"cities":["Winchester","Dorchester","Salisbury","Southampton","Wareham","Sherborne","Chichester","Portsmouth","Christchurch","Wilton",
+			"Axminster","Barnstaple","Bridport","Crewkerne","Lyme Regis","Taunton","Wimborne","Blandford","Exeter","Totnes",
+			"Honiton","Crediton","Ottery St Mary","Sidmouth","Newton Abbot","Tiverton","Torquay","Brixham","Paignton","Ashburton",
+			"Dartmouth","Kingsbridge","Ivybridge","Okehampton","Seaton","Tavistock","Teignmouth","South Brent","Moretonhampstead","Cullompton",
+			"Dawlish","Bishopsteignton","Buckfastleigh","Chudleigh","Colyton","Exmouth","Starcross","Hatherleigh","Holbeton","Lympstone"]
+	},
 ]
