@@ -5,7 +5,7 @@
 	"uniqueTo": "Northumbria",
 	"cityStrength": 5,
 	"cityHealth": 50,
-	"hurryCostModifier": 25,
+	"hurryCostModifier": 20,
         "culture": 1,
         "gold": 2,
 	"requiredTech": "Masonry",
@@ -16,11 +16,21 @@
 	"replaces": "Courthouse",
 	"uniqueTo": "Mercia",
 	"maintenance": 2,
-	"hurryCostModifier": 50,
+	"hurryCostModifier": 45,
 	"culture": 2,
 	"happiness": 1,
 	"uniques": ["Remove extra unhappiness from annexed cities",
 			"Can only be built <in [Annexed] cities>"],
 	"requiredTech": "Mathematics"
+},
+{
+	"name": "Thegn's Hall",
+	"replaces": "Barracks",
+	"uniqueTo": "Wessex",
+	"hurryCostModifier": 20,
+	"culture": 1,
+	"happiness": 1,
+	"uniques": ["New [Military] units start with [15] Experience [in this city]", "Destroyed when the city is captured"],
+	"requiredTech": "Bronze Working"
     }
 ]
