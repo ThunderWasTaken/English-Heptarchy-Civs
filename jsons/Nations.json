@@ -82,7 +82,7 @@
 		"innerColor": [174, 255, 251],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Western Saxons",
-		"uniques":["[+1 Culture] from all [All] buildings", "[+25]% Strength <vs [Barbarian] units>"]
+		"uniques":["[+1 Culture] from all [Culture] buildings", "[+1 Gold] from all [Gold] buildings", "[+25]% Strength <vs [Barbarian] units>"]
 		"cities":["Winchester","Dorchester","Salisbury","Southampton","Wareham","Sherborne","Chichester","Portsmouth","Christchurch","Wilton",
 			"Axminster","Barnstaple","Bridport","Crewkerne","Lyme Regis","Taunton","Wimborne","Blandford","Exeter","Totnes",
 			"Honiton","Crediton","Ottery St Mary","Sidmouth","Newton Abbot","Tiverton","Torquay","Brixham","Paignton","Ashburton",
