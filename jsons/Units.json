@@ -29,5 +29,18 @@
 		"requiredResource": "Iron",
 		"uniques": ["[+15]% Strength <when defending>"],
 		"attackSound": "metalhit"
+	},
+	{
+		"name": "Anglo Axeman",
+		"unitType": "Sword",
+		"uniqueTo": "Wessex",
+		"replaces": "Warrior",
+		"movement": 2,
+		"strength": 8,
+		"cost": 35,
+		"obsoleteTech": "Metal Casting",
+		"promotions": ["Drill I"],
+		"upgradesTo": "Swordsman",
+		"attackSound": "nonmetalhit"
 	}
 ]
