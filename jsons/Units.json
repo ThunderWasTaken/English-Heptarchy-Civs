@@ -42,5 +42,21 @@
 		"promotions": ["Drill I"],
 		"upgradesTo": "Swordsman",
 		"attackSound": "nonmetalhit"
+	},
+	{
+		"name": "Horse Raider",
+		"unitType": "Mounted",
+		"uniqueTo": "East Anglia",
+		"replaces": "Horseman",
+		"movement": 5,
+		"strength": 12,
+		"cost": 75,
+		"requiredTech": "Horseback Riding",
+		"upgradesTo": "Knight",
+		"obsoleteTech": "Chivalry",
+		"requiredResource": "Horses",
+		"uniques": ["Can move after attacking", "No defensive terrain bonus"],
+		"hurryCostModifier": 20,
+		"attackSound": "horse"
 	}
 ]
