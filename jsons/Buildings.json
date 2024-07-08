@@ -32,5 +32,16 @@
 	"happiness": 1,
 	"uniques": ["New [Military] units start with [15] Experience [in this city]", "Destroyed when the city is captured"],
 	"requiredTech": "Bronze Working"
+},
+{
+	"name": "Sutton Hoo",
+	"replaces": "Shrine",
+	"uniqueTo": "East Anglia",
+	"faith": 1,
+	"culture": 1,
+	"gold": 1,
+	"cost": 40,
+	"requiredTech": "Pottery",
+	"uniques": ["Hidden when religion is disabled", "[+10]% Great Person generation [in this city]"]
     }
 ]
