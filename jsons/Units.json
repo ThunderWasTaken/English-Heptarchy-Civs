@@ -58,5 +58,19 @@
 		"uniques": ["Can move after attacking", "No defensive terrain bonus"],
 		"hurryCostModifier": 20,
 		"attackSound": "horse"
+	},
+	{
+		"name": "Longship",
+		"unitType": "Melee Water",
+		"uniqueTo": "Sussex",
+		"replaces": "Trireme",
+		"movement": 5,
+		"strength": 12,
+		"cost": 45,
+		"requiredTech": "Sailing",
+		"uniques": ["Cannot enter ocean tiles"],
+		"upgradesTo": "Caravel",
+		"obsoleteTech": "Astronomy",
+		"attackSound": "nonmetalhit"
 	}
 ]
