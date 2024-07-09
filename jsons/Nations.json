@@ -19,7 +19,7 @@
 		"tradeRequest": "Northumbria requires your support, but you will be repaid for it.",
 
 		"outerColor": [37, 150, 190],
-		"innerColor": [251, 253, 239],
+		"innerColor": [244, 249, 203],
 		"favoredReligion": "Christianity",
 		"uniqueName": "United North",
 		"uniques":["[+2 Faith, +2 Culture] <in cities following our religion>", "Free [Great General] appears <after founding a religion>"]
@@ -138,8 +138,8 @@
 
 		"tradeRequest": "It appears you have things I don't, how about we peacefully change that?",
 
-		"outerColor": [1, 51, 102],
-		"innerColor": [255, 215, 1],
+		"outerColor": [1, 11, 65],
+		"innerColor": [203, 241, 251],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Southern Dominion",
 		"uniques":["[+1 Culture, +1 Production] [in all cities] <starting from the [Classical era]>", "[+1 Food] from [Farm] tiles [in all cities] <starting from the [Medieval era]>"]
