@@ -43,5 +43,20 @@
 	"cost": 40,
 	"requiredTech": "Pottery",
 	"uniques": ["Hidden when religion is disabled", "[+10]% Great Person generation [in this city]"]
+},
+{
+	"name": "Saxon Forge",
+	"replaces": "Forge",
+	"uniqueTo": "Sussex",
+	"maintenance": 1,
+	"culture": 1,
+	"happiness": 1,
+	"production": 1,
+	"hurryCostModifier": 25,
+	"requiredNearbyImprovedResources": ["Iron"],
+	"requiredTech": "Metal Casting",
+	"uniques": ["[+15]% Production when constructing [Spaceship part] units [in this city]",
+		"[+15]% Production when constructing [Land] units [in this city]",
+		"[+1 Production] from [Iron] tiles [in this city]"]
     }
 ]
