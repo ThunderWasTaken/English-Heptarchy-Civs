@@ -149,4 +149,34 @@
 			"Ditchling","Forest Row","Southwick","Ferring","Rottingdean","Ringmer","Henfield","Upper Beeding","Pulborough","Findon",
 			"Telscombe","East Dean","Bosham","Boxgrove","Lavant","West Wittering","Wisborough Green","Amberley","Northiam","Aldwick"]
 	},
+	{
+		"name": "Essex",
+		"leaderName": "Saeberht",
+		"adjective": ["Essexian"],
+		"startBias": ["Coast"],
+		"preferredVictoryType": "Scientific",
+
+		"startIntroPart1": "Saeberht of Essex. You are the first king of Essex to have converted to Christianity, helping the spread of the religion throughout the Anglo-Saxon kingdoms. Oh Saeberht of Essex, your rule is mostly forgotten. Can you create new history under your name? Can you actually fill out your wikipedia page with actual history instead of brief random facts? Can you build a civilization that will stand the test of time?",
+
+		"declaringWar": "Gotcha!",
+		"attacked": "Oh that's not good...",
+		"defeated": "Wait! I am not ready yet!",
+		"introduction": "Call me Saeberht, king of Essex.",
+
+		"neutralHello": "Why hello.",
+		"hateHello": "Here to cause trouble again?",
+
+		"tradeRequest": "God bless you with this trade!",
+
+		"outerColor": [255, 39, 2],
+		"innerColor": [229, 206, 255],
+		"favoredReligion": "Christianity",
+		"uniqueName": "Eastern Sea-Traders",
+		"uniques":["[+2 Gold] [in all coastal cities] <starting from the [Classical era]>", "[+1 Food, +1 Production] from all [Harbor] buildings", "[+1 Food] from [Fishing Boats] tiles [in all cities]"]
+		"cities":["Colchester","Chelmsford","Southend-on-Sea","Harlow","Basildon","Braintree","Clacton-on-Sea","Brentwood","Maldon","Saffron Walden",
+			"Halstead","Witham","Waltham Abbey","Epping","Rochford","Wickford","Rayleigh","Grays","Chipping Ongar","Loughton",
+			"Great Dunmow","Canvey Island","Harwich","Thaxted","Frinton-on-Sea","Manningtree","Burnham-on-Crouch","Brightlingsea","Billericay","Leigh-on-Sea",
+			"Shoeburyness","Pitsea","Tilbury","Hadleigh","Laindon","Westcliff-on-Sea","Stansted Mountfitchet","Wivenhoe","Heybridge","Writtle",
+			"South Woodham Ferrers","Stanford-le-Hope","Walton-on-the-Naze","Tiptree","Buckhurst Hill","North Weald Bassett","Ingatestone","Galleywood","Coggeshall"]
+	},
 ]
