@@ -72,5 +72,19 @@
 		"upgradesTo": "Caravel",
 		"obsoleteTech": "Astronomy",
 		"attackSound": "nonmetalhit"
+	},
+	{
+		"name": "Ceorl",
+		"unitType": "Sword",
+		"replaces": "Spearman",
+		"uniqueTo": "Essex",
+		"movement": 2,
+		"strength": 13,
+		"cost": 56,
+		"requiredTech": "Bronze Working",
+		"obsoleteTech": "Civil Service",
+		"upgradesTo": "Pikeman",
+		"uniques": ["[+50]% Strength <vs [Mounted] units>", "[+15]% Strength <when fighting in [Coast] tiles>"],
+		"attackSound": "metalhit"
 	}
 ]
