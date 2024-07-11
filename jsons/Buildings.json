@@ -58,8 +58,8 @@
 	"uniques": ["[+15]% Production when constructing [Spaceship part] units [in this city]",
 		"[+15]% Production when constructing [Land] units [in this city]",
 		"[+1 Production] from [Iron] tiles [in this city]"]
-	},
-	{
+},
+{
 	"name": "Trading Post",
 	"replaces": "Market",
 	"uniqueTo": "Essex",
@@ -69,5 +69,17 @@
 	"hurryCostModifier": 25,
 	"percentStatBonus": {"gold": 25},
 	"requiredTech": "Currency"
+},
+{
+	"name": "Jutish Longhouse",
+	"replaces": "Granary"
+	"uniqueTo": "Kent",
+	"food": 4,
+	"production": 1,
+	"hurryCostModifier": 25,
+	"uniques": ["[+1 Food] from [Deer] tiles [in this city]",
+		"[+1 Food] from [Bananas] tiles [in this city]",
+		"[+1 Food] from [Wheat] tiles [in this city]"],
+	"requiredTech": "Pottery"
     }
 ]
