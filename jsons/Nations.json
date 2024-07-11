@@ -179,4 +179,34 @@
 			"Shoeburyness","Pitsea","Tilbury","Hadleigh","Laindon","Westcliff-on-Sea","Stansted Mountfitchet","Wivenhoe","Heybridge","Writtle",
 			"South Woodham Ferrers","Stanford-le-Hope","Walton-on-the-Naze","Tiptree","Buckhurst Hill","North Weald Bassett","Ingatestone","Galleywood","Coggeshall"]
 	},
+	{
+		"name": "Kent",
+		"leaderName": "Hengist",
+		"adjective": ["Kentish"],
+		"startBias": ["Grassland"],
+		"preferredVictoryType": "Domination",
+
+		"startIntroPart1": "Hengist, the first king of Kent. You and your brother Horsa arrived in Britain at Ebbsfleet on the Isle of Thanet. For a time, you and your brother served as mercenaries for Vortigern, King of the Britons, but later you and your brother turned against him. Horsa was sadly killed fighting the Britons, but you successfully conquered Kent, becoming the forefather of its kings. Oh, Hengist, can you carve a new kingdom out of the ashes once more? Can you avenge your brother? Can you build a civilization that will stand the test of time?",
+
+		"declaringWar": "Hahaha!!!",
+		"attacked": "I am surprised you even have the guts for it!",
+		"defeated": "Monster! Thor smite you!",
+		"introduction": "More to invade?",
+
+		"neutralHello": "Yes, yes, why hello.",
+		"hateHello": "How did you get in here?!",
+
+		"tradeRequest": "Trade oh Trade, if I could take your resources forcefully I would!",
+
+		"outerColor": [32, 224, 188],
+		"innerColor": [115, 81, 1],
+		"favoredReligion": "Christianity",
+		"uniqueName": "Traitor's Legacy",
+		"uniques":["[+25]% Strength <for [Embarked] units>", "Defense bonus when embarked"]
+		"cities":["Canterbury","Rochester","Maidstone","Dover","Tonbridge","Sevenoaks","Gravesend","Faversham","Folkestone","Ashford",
+			"Margate","Ramsgate","Gillingham","Chatham","Tunbridge Wells","Deal","Whitstable","Sittingbourne","Herne Bay","Sandwich",
+			"Hythe","Tenterden","Snodland","Edenbridge","West Malling","Westerham","Queenborough","New Romney","Broadstairs","Swanley",
+			"Lydd","Minster","Northfleet","Orpington","Paddock Wood","Staplehurst","Lenham","Headcorn","Hawkhurst","Shorne",
+			"Borough Green","Wye","Wainscott","Rainham","Strood","Larkfield","East Peckham","Pluckley","Chislehurst"]
+	},
 ]
