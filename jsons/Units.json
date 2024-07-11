@@ -86,5 +86,21 @@
 		"upgradesTo": "Pikeman",
 		"uniques": ["[+50]% Strength <vs [Mounted] units>", "[+15]% Strength <when fighting in [Coast] tiles>"],
 		"attackSound": "metalhit"
+	},
+	{
+		"name": "Saexwielder",
+		"unitType": "Sword",
+		"uniqueTo": "Kent",
+		"replaces": "Swordsman",
+		"movement": 2,
+		"strength": 17,
+		"cost": 75,
+		"requiredTech": "Iron Working",
+		"upgradesTo": "Longswordsman",
+		"obsoleteTech": "Gunpowder",
+		"requiredResource": "Iron",
+		"uniques": ["May attack when embarked"],
+		"hurryCostModifier": 20,
+		"attackSound": "metalhit"
 	}
 ]
