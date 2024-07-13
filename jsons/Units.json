@@ -120,7 +120,7 @@
 		"attackSound": "metalhit"
 	},
 	{
-		"name": "Bow Archers",
+		"name": "Bow Archer",
 		"unitType": "Archery",
 		"movement": 2,
 		"strength": 6,
