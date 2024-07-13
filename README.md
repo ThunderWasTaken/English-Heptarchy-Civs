@@ -1,5 +1,5 @@
 # English-Heptarchy-Civs
-a mod that adds the English Heptarchies.
+a mod that adds the English Heptarchies and more.
 
 --------------------------------------------------------------------
 
@@ -22,3 +22,17 @@ Essex
 Kent
 
 Sussex
+
+--------------------------------------------------------------------
+
+Other civs which aren't apart of the Heptarchy but had major influence during the time of it
+
+Danelaw
+
+Alba
+
+Gwynedd
+
+The Isles
+
+Dublin
