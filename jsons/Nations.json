@@ -209,4 +209,34 @@
 			"Lydd","Minster","Northfleet","Orpington","Paddock Wood","Staplehurst","Lenham","Headcorn","Hawkhurst","Shorne",
 			"Borough Green","Wye","Wainscott","Rainham","Strood","Larkfield","East Peckham","Pluckley","Chislehurst"]
 	},
+	{
+		"name": "Danelaw",
+		"leaderName": "Halfdan Ragnarsson",
+		"adjective": ["Viking"],
+		"startBias": ["Coast"],
+		"preferredVictoryType": "Domination",
+
+		"startIntroPart1": "Halfdan 'Whiteshirt' Ragnarsson. A Viking leader and a commander of the Great Heathen Army which invaded the Anglo-Saxon kingdoms of England, starting in 865. You were the first Viking King of Northumbria and a pretender to the throne of Kingdom of Dublin. Oh, Halfdan, can you lead another army to carve your own lands? Can you rule over the unruly and bloodthirsty vikings once more? Can you build a civilization that will stand the test of time?",
+
+		"declaringWar": "Gettem boys!",
+		"attacked": "Grah! How could ya?!",
+		"defeated": "I'll kill ya in the afterlife ya pig!",
+		"introduction": "Surprise from tha' Danes, ME!",
+
+		"neutralHello": "Heya there, lad!",
+		"hateHello": "Ooou I'm gonna strangle ya!",
+
+		"tradeRequest": "I need some stuff lad, don't worry I won't steal it from ya.",
+
+		"outerColor": [192, 192, 192],
+		"innerColor": [110, 20, 1],
+		"favoredReligion": "Christianity",
+		"uniqueName": "Scandinavian Vikings",
+		"uniques":["[+2 Culture] [in all cities] <when at war> <starting from the [Classical era]>", "[+2 Culture] [in all cities] <when at war> <starting from the [Medieval era]>", "[-1 Happiness] [in all cities] <when not at war>", "No movement cost to pillage"]
+		"cities":["Viking York","Leicester","Lincoln","Nottingham","Derby","Stamford","Northampton","Bedford","Cambridge","Huntingdon",
+			"Norwich","Ipswich","Colchester","Chelmsford","Peterborough","Grimsby","Hull","Beverley","Thetford","Scarborough",
+			"Sleaford","Mansfield","Gainsborough","Newark","Bury St Edmunds","King's Lynn","Ely","Great Yarmouth","Lowestoft","Boston",
+			"Spalding","Wisbech","March","Louth","Lutterworth","Melton Mowbray","Market Harborough","Skegness","Clacton","Harwich",
+			"Haverhill","Sudbury","Felixstowe","Diss","Beccles","Wells-next-the-Sea","Sheringham","Cromer","Bungay"]
+	},
 ]
