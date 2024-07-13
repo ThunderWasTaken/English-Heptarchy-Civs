@@ -44,7 +44,7 @@
 		"attackSound": "nonmetalhit"
 	},
 	{
-		"name": "Horse Raider",
+		"name": "Anglo Horse-rider",
 		"unitType": "Mounted",
 		"uniqueTo": "East Anglia",
 		"replaces": "Horseman",
@@ -102,5 +102,50 @@
 		"uniques": ["May attack when embarked"],
 		"hurryCostModifier": 20,
 		"attackSound": "metalhit"
+	},
+	{
+		"name": "Raider",
+		"unitType": "Sword",
+		"uniqueTo": "Danelaw",
+		"replaces": "Swordsman",
+		"movement": 2,
+		"strength": 16,
+		"cost": 70,
+		"requiredTech": "Iron Working",
+		"upgradesTo": "Longswordsman",
+		"obsoleteTech": "Gunpowder",
+		"requiredResource": "Iron",
+		"uniques": ["[+25]% Strength <on foreign continents>", "[1] Movement point cost to embark", "[1] Movement point cost to disembark"],
+		"hurryCostModifier": 20,
+		"attackSound": "metalhit"
+	},
+	{
+		"name": "Bow Archers",
+		"unitType": "Archery",
+		"movement": 2,
+		"strength": 6,
+		"rangedStrength": 8,
+		"cost": 35,
+		"requiredTech": "Archery",
+		"obsoleteTech": "Construction",
+		"replaces": "Archer",
+		"uniqueTo": "Danelaw",
+		"uniques": ["[+25]% Strength <on foreign continents>", "[1] Movement point cost to embark", "[1] Movement point cost to disembark"],
+		"upgradesTo": "Composite Bowman",
+		"attackSound": "arrow"
+	},
+	{
+		"name": "Drakkar",
+		"unitType": "Melee Water",
+		"uniqueTo": "Danelaw",
+		"replaces": "Trireme",
+		"movement": 4,
+		"strength": 15,
+		"cost": 40,
+		"requiredTech": "Sailing",
+		"uniques": ["[+25]% Strength <on foreign continents>"],
+		"upgradesTo": "Caravel",
+		"obsoleteTech": "Astronomy",
+		"attackSound": "nonmetalhit"
 	}
 ]
