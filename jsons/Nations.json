@@ -228,8 +228,8 @@
 
 		"tradeRequest": "I need some stuff lad, don't worry I won't steal it from ya.",
 
-		"outerColor": [192, 192, 192],
-		"innerColor": [110, 20, 1],
+		"outerColor": [110, 20, 1],
+		"innerColor": [192, 192, 192], 
 		"favoredReligion": "Christianity",
 		"uniqueName": "Scandinavian Vikings",
 		"uniques":["[+2 Culture] [in all cities] <when at war> <starting from the [Classical era]>", "[+2 Culture] [in all cities] <when at war> <starting from the [Medieval era]>", "[-1 Happiness] [in all cities] <when not at war>", "No movement cost to pillage"]
