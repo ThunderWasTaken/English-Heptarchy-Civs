@@ -239,4 +239,34 @@
 			"Spalding","Wisbech","March","Louth","Lutterworth","Melton Mowbray","Market Harborough","Skegness","Clacton","Harwich",
 			"Haverhill","Sudbury","Felixstowe","Diss","Beccles","Wells-next-the-Sea","Sheringham","Cromer","Bungay"]
 	},
+	{
+		"name": "Gwynedd",
+		"leaderName": "Cadwallon ap Cadfan",
+		"adjective": ["Welsh"],
+		"startBias": ["Hill"],
+		"preferredVictoryType": "Domination",
+
+		"startIntroPart1": "Cadwallon ap Cadfan. You are the King of the Britons who invaded and conquered Northumbria, defeating and killing its king, Edwin, prior to his own death in battle against Oswald of Bernicia. Your conquest of Northumbria, which you held for a year or two after Edwin died, made you one of the last recorded Celtic Britons to hold substantial territory in eastern Britain until the rise of the Welsh House of Tudor. OH, Cadwallon. Can you once again overthrow the rulers of other civilizations? Can you become a legend to your people once more? Can you build a civilization that will stand the test of time?",
+
+		"declaringWar": "Perish in my sight!",
+		"attacked": "Your arrogance is notable.",
+		"defeated": "I have no words... You have defeated me... But how...",
+		"introduction": "Who are you and what do you want?",
+
+		"neutralHello": "What is it?",
+		"hateHello": "Best you get out of my sight.",
+
+		"tradeRequest": "I wish to share my prosperity with you.",
+
+		"outerColor": [255, 153, 1],
+		"innerColor": 92, 22, 1], 
+		"favoredReligion": "Christianity",
+		"uniqueName": "Cymru",
+		"uniques":["New [Land] units start with [15] Experience [in all cities]", "Gain [50] [Culture] <upon conquering a city>", "Gain [50] [Gold] <upon conquering a city> <starting from the [Classical era]>", "Gain [50] [Culture] <upon conquering a city> <starting from the [Medieval era]>"]
+		"cities":["Caernarfon","Bangor","Conwy","Llanberis","Aberystwyth","Dolgellau","Pwllheli","Blaenau Ffestiniog","Harlech","Bala",
+			"Bethesda","Tywyn","Porthmadog","Llanfairpwllgwyngyll","Aberdaron","Beddgelert","Llandudno","Llangefni","Llanrwst","Machynlleth",
+			"Amlwch","Holyhead","Menai Bridge","Betws-y-Coed","Criccieth","Abersoch","Nefyn","Llanrug","Beaumaris","Penmaenmawr",
+			"Rhos-on-Sea","Llanfairfechan","Penrhyndeudraeth","Mold","Denbigh","Rhyl","Prestatyn","Ruthin","St Asaph","Wrexham",
+			"Colwyn Bay","Holywell","Llangollen","Hawarden","Flint","Buckley","Shotton","Broughton","Queensferry"]
+	},
 ]
