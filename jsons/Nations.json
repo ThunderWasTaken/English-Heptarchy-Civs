@@ -258,8 +258,8 @@
 
 		"tradeRequest": "I wish to share my prosperity with you.",
 
-		"outerColor": [255, 153, 1],
-		"innerColor": [92, 22, 1], 
+		"outerColor": [92, 22, 1],
+		"innerColor": [255, 153, 1], 
 		"favoredReligion": "Christianity",
 		"uniqueName": "Cymru",
 		"uniques":["New [Land] units start with [15] Experience [in all cities]", "Gain [50] [Culture] <upon conquering a city>", "Gain [50] [Gold] <upon conquering a city> <starting from the [Classical era]>", "Gain [50] [Culture] <upon conquering a city> <starting from the [Medieval era]>"]
