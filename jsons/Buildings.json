@@ -81,5 +81,18 @@
 		"[+1 Food] from [Bananas] tiles [in this city]",
 		"[+1 Food] from [Wheat] tiles [in this city]"],
 	"requiredTech": "Pottery"
+},
+{
+	"name": "Bardic College",
+	"replaces": "Amphitheater",
+	"uniqueTo": "Gwynedd",
+	"culture": 5,
+	"happiness": 1,
+	"specialistSlots": {"Artist": 1},
+	"requiredBuilding": "Monument",
+	"maintenance": 2,
+	"hurryCostModifier": 25,
+	"uniques": ["Destroyed when the city is captured"],
+	"requiredTech": "Drama and Poetry"
     }
 ]
