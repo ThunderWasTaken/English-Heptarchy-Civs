@@ -147,5 +147,21 @@
 		"upgradesTo": "Caravel",
 		"obsoleteTech": "Astronomy",
 		"attackSound": "nonmetalhit"
+	},
+	{
+		"name": "Teulu",
+		"unitType": "Sword",
+		"uniqueTo": "Gwynedd",
+		"replaces": "Swordsman",
+		"movement": 2,
+		"strength": 17,
+		"cost": 75,
+		"requiredTech": "Iron Working",
+		"upgradesTo": "Longswordsman",
+		"obsoleteTech": "Gunpowder",
+		"requiredResource": "Iron",
+		"uniques": ["[+15]% Strength <when fighting in [Hill] tiles>", "[+10] HP when healing <during a Golden Age>"],
+		"hurryCostModifier": 20,
+		"attackSound": "metalhit"
 	}
 ]
