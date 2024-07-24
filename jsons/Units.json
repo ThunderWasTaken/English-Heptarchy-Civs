@@ -163,5 +163,20 @@
 		"uniques": ["[+15]% Strength <when fighting in [Hill] tiles>", "[+10] HP when healing <during a Golden Age>"],
 		"hurryCostModifier": 20,
 		"attackSound": "metalhit"
+	},
+	{
+		"name": "Gall-Gaedhil",
+		"unitType": "Sword",
+		"replaces": "Longswordsman",
+		"uniqueTo": "Dublin",
+		"movement": 2,
+		"strength": 23,
+		"cost": 110,
+		"requiredTech": "Steel",
+		"upgradesTo": "Musketman",
+		"obsoleteTech": "Gunpowder",
+		"requiredResource": "Iron",
+		"uniques": ["[+15]% Strength <when fighting in [Coast] tiles>", "May travel on Water tiles without embarking"],
+		"attackSound": "metalhit"
 	}
 ]
