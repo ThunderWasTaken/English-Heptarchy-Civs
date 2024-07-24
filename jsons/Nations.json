@@ -246,7 +246,7 @@
 		"startBias": ["Hill"],
 		"preferredVictoryType": "Domination",
 
-		"startIntroPart1": "Cadwallon ap Cadfan. You are the King of the Britons who invaded and conquered Northumbria, defeating and killing its king, Edwin, prior to his own death in battle against Oswald of Bernicia. Your conquest of Northumbria, which you held for a year or two after Edwin died, made you one of the last recorded Celtic Britons to hold substantial territory in eastern Britain until the rise of the Welsh House of Tudor. OH, Cadwallon. Can you once again overthrow the rulers of other civilizations? Can you become a legend to your people once more? Can you build a civilization that will stand the test of time?",
+		"startIntroPart1": "Cadwallon ap Cadfan. You are the King of the Britons who invaded and conquered Northumbria, defeating and killing its king, Edwin, prior to his own death in battle against Oswald of Bernicia. Your conquest of Northumbria, which you held for a year or two after Edwin died, made you one of the last recorded Celtic Britons to hold substantial territory in eastern Britain until the rise of the Welsh House of Tudor. Oh, Cadwallon. Can you once again overthrow the rulers of other civilizations? Can you become a legend to your people once more? Can you build a civilization that will stand the test of time?",
 
 		"declaringWar": "Perish in my sight!",
 		"attacked": "Your arrogance is notable.",
@@ -268,5 +268,35 @@
 			"Amlwch","Holyhead","Menai Bridge","Betws-y-Coed","Criccieth","Abersoch","Nefyn","Llanrug","Beaumaris","Penmaenmawr",
 			"Rhos-on-Sea","Llanfairfechan","Penrhyndeudraeth","Mold","Denbigh","Rhyl","Prestatyn","Ruthin","St Asaph","Wrexham",
 			"Colwyn Bay","Holywell","Llangollen","Hawarden","Flint","Buckley","Shotton","Broughton","Queensferry"]
+	},
+	{
+		"name": "Dublin",
+		"leaderName": "Ivar the Boneless",
+		"adjective": ["Irish"],
+		"startBias": ["Coast"],
+		"preferredVictoryType": "Domination",
+
+		"startIntroPart1": "Imar, better known as Ivar the Boneless. You a powerful Viking leader in Ireland and Scotland in the mid-late ninth century. You were the progenitor of the Uí Ímair dynasty, who would go on to dominate the Irish Sea region for several centuries. Oh, Ivan, can you once again settle yourself into greater history? Can you expand your legacy far across the world? Can you build a civilization that will stand the test of time?",
+
+		"declaringWar": "Feel my fury!",
+		"attacked": "Terrible move, my friend!",
+		"defeated": "I guess that wasn't a bad move...",
+		"introduction": "I see you friend, what's up?!",
+
+		"neutralHello": "Yeah?",
+		"hateHello": "Screw you!",
+
+		"tradeRequest": "Let's trade!",
+
+		"outerColor": [229, 230, 230],
+		"innerColor": [3, 95, 208], 
+		"favoredReligion": "Christianity",
+		"uniqueName": "Seabound Conquerers",
+		"uniques":["[+15]% Strength <when attacking> <vs [City]>", "[+2 Production] [in all coastal cities]"]
+		"cities":["Dublin","Limerick","Waterford","Wexford","Cork","Clonmacnoise","Armagh","Kildare","Downpatrick","Drogheda",
+			"Navan","Kilkenny","Galway","Sligo","Athlone","Trim","Dundalk","Ennis","Carrickfergus","Newry",
+			"Carlow","Portlaoise","Tullamore","Nenagh","Letterkenny","Clonakilty","Roscommon","Castlebar","Longford","Ballina",
+			"Cavan","Monaghan","Birr","Tralee","Killarney","Bantry","Skibbereen","Thurles","Kinsale","Mallow",
+			"Ardee","Antrim","Ballymena","Dingle","Ballyshannon","Dungannon","Bundoran","Ballybofey","Buncrana"]
 	},
 ]
