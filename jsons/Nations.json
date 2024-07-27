@@ -299,4 +299,34 @@
 			"Cavan","Monaghan","Birr","Tralee","Killarney","Bantry","Skibbereen","Thurles","Kinsale","Mallow",
 			"Ardee","Antrim","Ballymena","Dingle","Ballyshannon","Dungannon","Bundoran","Ballybofey","Buncrana"]
 	},
+	{
+		"name": "the Isles",
+		"leaderName": "Gofraid ua Imair",
+		"adjective": ["Isles"],
+		"startBias": ["Coast"],
+		"preferredVictoryType": "Domination",
+
+		"startIntroPart1": "Gofraid Ua Imair. a Viking leader who ruled Northumbria and the Isle of Man in the early 10th century. You are a grandson of Ímar and a member of the Uí Ímair. In 917, you and Sitric Cáech sailed separate fleets to Ireland where you won several battles against local kings. Sitric successfully recaptured Dublin and established himself as king, while you returned to England. You fought against Constantín mac Áeda, King of Scotland. The Battle of Corbridge allowed you to establish yourself as king at York. Oh, Ragnall, can you make yourself a great king once more? Can you defeat your enemies in battle? Can you build a civilization that will stand the test of time?",
+
+		"declaringWar": "Your throne is mine!",
+		"attacked": "You will pay for this.",
+		"defeated": "Urk! Nooo!",
+		"introduction": "Call me Gofraid, do not be afraid.",
+
+		"neutralHello": "Whos there?! Oh, its you!",
+		"hateHello": "Ah! Of course it had to be you!",
+
+		"tradeRequest": "Have you ever wondered how they deliver these resources?",
+
+		"outerColor": [1, 63, 89],
+		"innerColor": [240, 202, 1], 
+		"favoredReligion": "Christianity",
+		"uniqueName": "Lords of the Isles",
+		"uniques":["[+20]% Production when constructing [Water] units [in all cities]", "[+1] Movement <for [Water] units> <after discovering [Compass]>", "[+10]% Strength <for [Water] units>"]
+		"cities":["Islay","Skye","Lewis","Mull","Jura","Coll","Tiree","Barra","Arran","Kintyre",
+			"Bute","Eigg","Raasay","Canna","Iona","Uist","Colonsay","Rhum","Lismore","Sanda",
+			"Torsa","Scalpay","Eriskay","Gigha","Scalpay","Oronsay","Luing","Shuna","Scarba","Muck",
+			"Staffa","Bute","Little Cumbrae","Holy Island","Great Cumbrae","Mull of Kintyre","Torrisdale","Tobermory","Oban","Dunoon",
+			"Tarbert","Rothesay","Campbeltown","Brodick","Lochgilphead","Clachan","Bowmore","Portree","Lochmaddy"]
+	},
 ]
