@@ -182,7 +182,7 @@
 	{
 		"name": "Birlinn",
 		"unitType": "Melee Water",
-		"uniqueTo": "Sussex",
+		"uniqueTo": "the Isles",
 		"replaces": "Trireme",
 		"movement": 4,
 		"strength": 12,
