@@ -232,7 +232,7 @@
 		"innerColor": [192, 192, 192], 
 		"favoredReligion": "Christianity",
 		"uniqueName": "Scandinavian Vikings",
-		"uniques":["[+2 Culture] [in all cities] <when at war> <starting from the [Classical era]>", "[+2 Culture] [in all cities] <when at war> <starting from the [Medieval era]>", "[-1 Happiness] [in all cities] <when not at war>", "No movement cost to pillage"]
+		"uniques":["[+3 Culture] [in all cities] <when at war> <starting from the [Classical era]>", "All newly-trained [Water] units [in all cities] receive the [Isles Ship] promotion", "[-1 Happiness] [in all cities] <when not at war>", "No movement cost to pillage"]
 		"cities":["Viking York","Leicester","Lincoln","Nottingham","Derby","Stamford","Northampton","Bedford","Cambridge","Huntingdon",
 			"Norwich","Ipswich","Colchester","Chelmsford","Peterborough","Grimsby","Hull","Beverley","Thetford","Scarborough",
 			"Sleaford","Mansfield","Gainsborough","Newark","Bury St Edmunds","King's Lynn","Ely","Great Yarmouth","Lowestoft","Boston",
