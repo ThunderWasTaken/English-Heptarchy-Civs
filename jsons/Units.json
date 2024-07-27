@@ -178,5 +178,20 @@
 		"requiredResource": "Iron",
 		"uniques": ["[+15]% Strength <when fighting in [Coast] tiles>", "May travel on Water tiles without embarking"],
 		"attackSound": "metalhit"
+	},
+	{
+		"name": "Birlinn",
+		"unitType": "Melee Water",
+		"uniqueTo": "Sussex",
+		"replaces": "Trireme",
+		"movement": 4,
+		"strength": 12,
+		"cost": 45,
+		"requiredTech": "Sailing",
+		"uniques": ["Cannot enter ocean tiles"],
+		"promotions": ["Isles Ship"],
+		"upgradesTo": "Caravel",
+		"obsoleteTech": "Astronomy",
+		"attackSound": "nonmetalhit"
 	}
 ]
