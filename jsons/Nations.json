@@ -329,4 +329,89 @@
 			"Staffa","Bute","Little Cumbrae","Holy Island","Great Cumbrae","Mull of Kintyre","Torrisdale","Tobermory","Oban","Dunoon",
 			"Tarbert","Rothesay","Campbeltown","Brodick","Lochgilphead","Clachan","Bowmore","Portree","Lochmaddy"]
 	},
+	// City-States, continue from above if you want to add new civs, not below!
+	{
+		"name": "Deira",
+		"adjective": ["Deiran"],
+		"cityStateType": "Cultured",
+
+		"declaringWar": "Hmm... I think I prefer you gone!",
+		"attacked": "You are overconfident!",
+		"defeated": "I suppose becoming apart of a larger empire isn't that bad.",
+		"outerColor": [0, 0, 0],
+		"innerColor": [0,89,121],
+		"cities": ["Old York"]
+	},
+	{
+		"name": "Bernicia",
+		"adjective": ["Bernician"],
+		"cityStateType": "Militaristic",
+
+		"declaringWar": "May the gods have mercy on you!",
+		"attacked": "This is futile! You can not defeat us!",
+		"defeated": "I retract my previous statement.",
+		"outerColor": [0, 0, 0],
+		"innerColor": [121,0,42],
+		"cities": ["Bamburgh"]
+	},
+	{
+		"name": "Munster",
+		"adjective": ["Munsterian"],
+		"cityStateType": "Maritime",
+
+		"declaringWar": "Pissing us off has done you a great disfavor!",
+		"attacked": "Hah! Hahah! Look at them! They think they can beat us!",
+		"defeated": "I shall take you to the depths of- Oh, we lost?",
+		"outerColor": [0, 0, 0],
+		"innerColor": [0,121,13],
+		"cities": ["Cork"]
+	},
+	{
+		"name": "Dyfed",
+		"adjective": ["Dyfedian"],
+		"cityStateType": "Mercantile",
+
+		"declaringWar": "Hehe! Time to expand!",
+		"attacked": "This isn't good...",
+		"defeated": "Oh the misery!",
+		"outerColor": [0, 0, 0],
+		"innerColor": [250,255,161],
+		"cities": ["Pembroke"]
+	},
+	{
+		"name": "Gwent",
+		"adjective": ["Gwentian"],
+		"cityStateType": "Cultured",
+
+		"declaringWar": "You are far too annoying, time to die.",
+		"attacked": "You can't just do that!",
+		"defeated": "I've been a fool...",
+		"outerColor": [0, 0, 0],
+		"innerColor": [185,255,154],
+		"cities": ["Caerwent"]
+	},
+	{
+		"name": "Powys",
+		"adjective": ["Powysian"],
+		"cityStateType": "Militaristic",
+
+		"declaringWar": "You suck!",
+		"attacked": "I can deal with this...!",
+		"defeated": "I have made a mistake...",
+		"outerColor": [0, 0, 0],
+		"innerColor": [169,154,255],
+		"cities": ["Pengwern"]
+	},
+	{
+		"name": "Dumnonia",
+		"adjective": ["Dumnonian"],
+		"cityStateType": "Cultured",
+
+		"declaringWar": "You can't beat us, yknow.",
+		"attacked": "We shall defend against this and make a fool out of you!",
+		"defeated": "Mercy!",
+		"outerColor": [0, 0, 0],
+		"innerColor": [125,81,27],
+		"cities": ["Tintagel"]
+	},
 ]
